@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"strings"
+	"sts2/internal"
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
@@ -18,20 +19,7 @@ const (
 	cardLinkSelector = `a.ugg-link-link[href^="/en/cards/"]`
 )
 
-var cards []Card
-
-type Card struct {
-	Title					string
-	EnergyCost 		string
-	Description		string
-	Color 				string
-	Character			string
-	Type					string
-	Rarity				string
-	Source				string
-	Img						string
-	URL						string
-}
+var cards []internal.Card
 
 func main() {
 	c := colly.NewCollector(
