@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 	"strings"
 	"sts2/internal"
 	"time"
@@ -33,11 +34,16 @@ func main() {
 
 	c.Wait()
 
-	if err := writeJSON("cards.json", cards); err != nil {
+	writeFile := os.Args[1]
+	if writeFile == "" {
+		writeFile = "./cards.json"
+	}
+
+	if err := writeJSON(writeFile, cards); err != nil {
 		log.Fatal(err)
 	}
 
-	fmt.Println("Wrote", len(cards), "cards to cards.json")
+	fmt.Println("Wrote", len(cards), "cards to ", writeFile)
 }
 
 func crawl(c *colly.Collector) error {
@@ -67,14 +73,14 @@ func crawl(c *colly.Collector) error {
 
 	return c.Visit(untappedBaseURL)
 }
-func collectCardDetails(h *colly.HTMLElement) (Card, error) {
-	var card Card
+func collectCardDetails(h *colly.HTMLElement) (internal.Card, error) {
+	var card internal.Card
 
 	card.URL = h.Request.URL.String()
 
 	card.Title = strings.TrimSpace(h.ChildText("h1"))
 	if card.Title == "" {
-		return Card{}, fmt.Errorf("title not found")
+		return internal.Card{}, fmt.Errorf("title not found")
 	}
 
 	h.ForEach("label", func(_ int, el *colly.HTMLElement) {
@@ -113,8 +119,14 @@ func collectCardDetails(h *colly.HTMLElement) (Card, error) {
 	return card, nil
 }
 
-func writeJSON(filename string, data any) error {
-	file, err := os.Create(filename)
+func writeJSON(path string, data any) error {
+	dir := filepath.Dir(path)
+	if err := os.MkdirAll(dir, 0755); err != nil {
+		return err
+	}
+
+	// Create (or overwrite) file
+	file, err := os.Create(path)
 	if err != nil {
 		return err
 	}
