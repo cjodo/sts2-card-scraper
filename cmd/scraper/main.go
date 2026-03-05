@@ -14,6 +14,30 @@ import (
 	"github.com/gocolly/colly/v2"
 )
 
+type Database interface {
+    SaveCard(card internal.Card) error
+}
+
+type options struct {
+    db Database
+}
+
+type Option interface {
+    apply(*options)
+}
+
+type dbOption struct {
+    DB Database
+}
+
+func (d dbOption) apply(opts *options) {
+    opts.db = d.DB
+}
+
+func WithDatabase(d Database) Option {
+    return dbOption{DB: d}
+}
+
 const (
 	untappedBaseURL = "https://sts2.untapped.gg"
 	untappedCardsURL = "https://sts2.untapped.gg/en/cards"
@@ -34,9 +58,10 @@ func main() {
 
 	c.Wait()
 
-	writeFile := os.Args[1]
-	if writeFile == "" {
-		writeFile = "./cards.json"
+	writeFile := "./cards.json"
+
+	if len(os.Args) > 1 && os.Args[1] != "" {
+		writeFile = os.Args[1]
 	}
 
 	if err := writeJSON(writeFile, cards); err != nil {
@@ -46,7 +71,7 @@ func main() {
 	fmt.Println("Wrote", len(cards), "cards to ", writeFile)
 }
 
-func crawl(c *colly.Collector) error {
+func crawl(c *colly.Collector, opts ...Option) error {
 	// New collector to get card detail
 	detailCollector := c.Clone()
 
