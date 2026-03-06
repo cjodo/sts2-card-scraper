@@ -1,0 +1,1766 @@
+[
+  {
+    "Name": "Akabeko",
+    "Description": "At the start of each combat, gain 8 Vigor.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fakabeko.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Alchemical Coffer",
+    "Description": "Upon pickup, gain 4 potion slots filled with random potions.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Falchemical_coffer.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Amethyst Aubergine",
+    "Description": "Enemies drop 10 additional Gold.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Famethyst_aubergine.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Anchor",
+    "Description": "Start each combat with 10 Block.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fanchor.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Arcane Scroll",
+    "Description": "Upon pickup, obtain a random Rare Card to add to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Farcane_scroll.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Archaic Tooth",
+    "Description": "Upon pickup, Transform a starter card with an ancient version.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Farchaic_tooth.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Art of War",
+    "Description": "If you do not play any Attacks during your turn, gain an additional  next turn.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fart_of_war.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Astrolabe",
+    "Description": "Upon pickup, Transform 3 cards, then Upgrade them.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fastrolabe.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bag of Marbles",
+    "Description": "At the start of each combat, apply 1 Vulnerable to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbag_of_marbles.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bag of Preparation",
+    "Description": "At the start of each combat, draw 2 additional cards.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbag_of_preparation.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Beating Remnant",
+    "Description": "You cannot lose more than 20 HP in a single turn.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbeating_remnant.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Beautiful Bracelet",
+    "Description": "Upon pickup, choose 3 cards in your Deck. Enchant them with Swift 3.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbeautiful_bracelet.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bellows",
+    "Description": "The first Hand you draw each combat is Upgraded.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbellows.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Belt Buckle",
+    "Description": "While you have no potions, you have 2 additional Dexterity.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbelt_buckle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Big Hat",
+    "Description": "At the start of each combat, add 2 random Ethereal cards into your Hand.",
+    "Character": "Necrobinder",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbig_hat.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Biiig Hug",
+    "Description": "Upon pickup, remove 4 cards from your Deck. Whenever you shuffle your Draw Pile, add a Soot into your Draw Pile.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbiiig_hug.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Black Blood",
+    "Description": "At the end of combat, heal 12 HP.",
+    "Character": "Colorless",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fblack_blood.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Black Star",
+    "Description": "Elites drop an additional Relic when defeated.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fblack_star.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Blessed Antler",
+    "Description": "Gain  at the start of each turn. At the start of each combat, shuffle 3 Dazed into your Draw Pile.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fblessed_antler.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Blood-Soaked Rose",
+    "Description": "Upon pickup, add 1 Enthralled to your Deck. Gain  at the start of each turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fblood_soaked_rose.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Blood Vial",
+    "Description": "At the start of each combat, heal 2 HP.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fblood_vial.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bone Flute",
+    "Description": "Whenever Osty attacks, gain 2 Block.",
+    "Character": "Necrobinder",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbone_flute.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Book of Five Rings",
+    "Description": "Every 5 cards you add to your Deck, heal 15 HP.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbook_of_five_rings.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Book Repair Knife",
+    "Description": "Whenever a non-Minion enemy dies to Doom, heal 3 HP.",
+    "Character": "Necrobinder",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbook_repair_knife.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bookmark",
+    "Description": "At the end of each turn, lower the cost of a random Retained card by 1 until played.",
+    "Character": "Necrobinder",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbookmark.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Booming Conch",
+    "Description": "At the start of Elite combats, draw 2 additional cards.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbooming_conch.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bound Phylactery",
+    "Description": "At the start of your turn, Summon 1.",
+    "Character": "Necrobinder",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbound_phylactery.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bowler Hat",
+    "Description": "Gain 20% additional Gold.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbowler_hat.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bread",
+    "Description": "At the start of your first turn, lose . At the start of all other turns, gain .",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbread.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Brilliant Scarf",
+    "Description": "The 5th card you play each turn is free.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbrilliant_scarf.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Brimstone",
+    "Description": "At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.",
+    "Character": "Ironclad",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbrimstone.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Bronze Scales",
+    "Description": "Start each combat with 3 Thorns.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fbronze_scales.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Burning Blood",
+    "Description": "At the end of combat, heal 6 HP.",
+    "Character": "Ironclad",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fburning_blood.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Burning Sticks",
+    "Description": "The first time each combat you Exhaust a Skill, add a copy of it into your Hand.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fburning_sticks.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Calling Bell",
+    "Description": "Upon pickup, obtain a unique Curse and 3 Relics.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcalling_bell.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Candelabra",
+    "Description": "At the start of your 2nd turn, gain .",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcandelabra.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Captain's Wheel",
+    "Description": "At the start of your 3rd turn, gain 18 Block.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcaptains_wheel.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Cauldron",
+    "Description": "Upon pickup, brews 5 random potions.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcauldron.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Centennial Puzzle",
+    "Description": "The first time you lose HP each combat, draw 3 cards.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcentennial_puzzle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Chandelier",
+    "Description": "At the start of your 3rd turn, gain .",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fchandelier.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Charon's Ashes",
+    "Description": "Whenever you Exhaust a card, deal 3 damage to ALL enemies.",
+    "Character": "Ironclad",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcharons_ashes.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Chemical X",
+    "Description": "The effects of your cost X cards are increased by 2.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fchemical_x.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Choices Paradox",
+    "Description": "At the start of each combat, add 1 of 5 random cards into your Hand. Add Retain to the chosen card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fchoices_paradox.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Claws",
+    "Description": "Upon pickup, Transform up to 6 cards into Maul.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fclaws.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Cloak Clasp",
+    "Description": "At the end of your turn, gain 1 Block for each card in your Hand.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcloak_clasp.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Cracked Core",
+    "Description": "At the start of each combat, Channel 1 Lightning.",
+    "Character": "Defect",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcracked_core.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Crossbow",
+    "Description": "At the start of your turn, add a random Attack into your Hand. It costs 0 this turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcrossbow.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Cursed Pearl",
+    "Description": "Upon pickup, receive Greed. Gain 333 Gold.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fcursed_pearl.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Data Disk",
+    "Description": "Start each combat with 1 Focus.",
+    "Character": "Defect",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdata_disk.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Delicate Frond",
+    "Description": "At the start of each combat, fill all empty potion slots with random potions.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdelicate_frond.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Demon Tongue",
+    "Description": "The first time you lose HP on your turn, heal HP equal to the amount lost.",
+    "Character": "Ironclad",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdemon_tongue.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Diamond Diadem",
+    "Description": "Whenever you play 2 or fewer cards in a turn, take half damage from enemies.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdiamond_diadem.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Dingy Rug",
+    "Description": "Card rewards can now contain Colorless cards.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdingy_rug.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Distinguished Cape",
+    "Description": "Upon pickup, lose 9 Max HP. Add 3 Apparitions to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdistinguished_cape.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Divine Destiny",
+    "Description": "At the start of each combat, gain .",
+    "Character": "Colorless",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdivine_destiny.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Divine Right",
+    "Description": "At the start of each combat, gain .",
+    "Character": "Regent",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdivine_right.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Dolly's Mirror",
+    "Description": "Upon pickup, obtain an additional copy of a card in your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdollys_mirror.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Dragon Fruit",
+    "Description": "Whenever you gain Gold, raise your Max HP by 1.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdragon_fruit.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Driftwood",
+    "Description": "You may reroll each card reward once.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdriftwood.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Dusty Tome",
+    "Description": "Upon pickup, obtain an Ancient Card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fdusty_tome.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ectoplasm",
+    "Description": "You can no longer gain Gold. Gain  at the start of each turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fectoplasm.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Electric Shrymp",
+    "Description": "Upon pickup, Enchant a Skill with Imbued.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Felectric_shrymp.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Emotion Chip",
+    "Description": "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.",
+    "Character": "Defect",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Femotion_chip.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Empty Cage",
+    "Description": "Upon pickup, remove 2 cards from your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fempty_cage.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Eternal Feather",
+    "Description": "For every 5 cards in your Deck, heal 3 HP whenever you enter a Rest Site.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Feternal_feather.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Fencing Manual",
+    "Description": "At the start of each combat, Forge 10.",
+    "Character": "Regent",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ffencing_manual.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Festive Popper",
+    "Description": "At the start of each combat, deal 9 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ffestive_popper.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Fiddle",
+    "Description": "At the start of each turn, draw 2 additional cards. You may not draw cards during your turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ffiddle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Frozen Egg",
+    "Description": "Whenever you add a Power into your Deck, Upgrade it.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ffrozen_egg.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Funerary Mask",
+    "Description": "At the start of each combat, add 3 Souls into your Draw Pile.",
+    "Character": "Necrobinder",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ffunerary_mask.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Fur Coat",
+    "Description": "Upon pickup, mark 7 random combats. Enemies in those rooms have 1 HP.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ffur_coat.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Galactic Dust",
+    "Description": "For every 10  spent, gain 10 Block.",
+    "Character": "Regent",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgalactic_dust.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Gambling Chip",
+    "Description": "At the start of each combat, discard any number of cards then draw that many.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgambling_chip.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Game Piece",
+    "Description": "Whenever you play a Power, draw 1 card.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgame_piece.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ghost Seed",
+    "Description": "Strikes and Defends gain Ethereal.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fghost_seed.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Girya",
+    "Description": "You can now gain Strength at Rest Sites.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgirya.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Glass Eye",
+    "Description": "Upon pickup, obtain 2 Common cards, 2 Uncommon cards, and 1 Rare card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fglass_eye.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Glitter",
+    "Description": "Enchant all card rewards with Glam.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fglitter.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Gnarled Hammer",
+    "Description": "Upon pickup, Enchant up to 3 Attacks with Sharp 3.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgnarled_hammer.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Gold-Plated Cables",
+    "Description": "Your rightmost Orb triggers its passive an additional time.",
+    "Character": "Defect",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgold_plated_cables.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Golden Compass",
+    "Description": "Upon pickup, replace the Act 2 Map with a single special path.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgolden_compass.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Golden Pearl",
+    "Description": "Upon pickup, gain 150 Gold.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgolden_pearl.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Gorget",
+    "Description": "At the start of each combat, gain 4 Plating.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgorget.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Gremlin Horn",
+    "Description": "Whenever an enemy dies, gain  and draw 1 card.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fgremlin_horn.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Happy Flower",
+    "Description": "Every 3 turns, gain .",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fhappy_flower.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Helical Dart",
+    "Description": "Whenever you play a Shiv, gain 1 Dexterity this turn.",
+    "Character": "Silent",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fhelical_dart.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Horn Cleat",
+    "Description": "At the start of your 2nd turn, gain 14 Block.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fhorn_cleat.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ice Cream",
+    "Description": "Energy is now conserved between turns.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fice_cream.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Infused Core",
+    "Description": "At the start of each combat, Channel 3 Lightning.",
+    "Character": "Colorless",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Finfused_core.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Intimidating Helmet",
+    "Description": "Whenever you play a card that costs  or more, gain 4 Block.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fintimidating_helmet.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Iron Club",
+    "Description": "Every 4 cards you play, draw 1 card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Firon_club.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ivory Tile",
+    "Description": "Whenever you play a card that costs  or more, gain .",
+    "Character": "Necrobinder",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fivory_tile.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Jeweled Mask",
+    "Description": "At the start of combat put a random Power from your Draw Pile into your Hand, it's free to play.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fjeweled_mask.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Jewelry Box",
+    "Description": "Upon pickup, add 1 Apotheosis to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fjewelry_box.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Joss Paper",
+    "Description": "Every 5 times you Exhaust a card, draw 1 card.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fjoss_paper.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Juzu Bracelet",
+    "Description": "Regular enemy combats are no longer encountered in ? rooms.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fjuzu_bracelet.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Kifuda",
+    "Description": "Upon pickup, Enchant up to 3 cards with Adroit.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fkifuda.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Kunai",
+    "Description": "Every time you play 3 Attacks in a single turn, gain 1 Dexterity.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fkunai.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Kusarigama",
+    "Description": "Every time you play 3 Attacks in a single turn, deal 6 damage to a random enemy.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fkusarigama.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lantern",
+    "Description": "Start each combat with an additional .",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flantern.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Large Capsule",
+    "Description": "Upon pickup, obtain 2 random Relics. Add an additional Strike and Defend to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flarge_capsule.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lasting Candy",
+    "Description": "Every other combat, your card rewards gain an additional Power.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flasting_candy.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lava Lamp",
+    "Description": "At the end of combat, Upgrade all card rewards if you took no damage.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flava_lamp.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lava Rock",
+    "Description": "The Act 1 Boss drops 2 Relics.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flava_rock.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lead Paperweight",
+    "Description": "Upon pickup, choose 1 of 2 Colorless cards to add to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flead_paperweight.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Leafy Poultice",
+    "Description": "Upon pickup, Transform 1 of your Strikes and 1 of your Defends and lose 10 Max HP.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fleafy_poultice.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lee's Waffle",
+    "Description": "Upon pickup, raise your Max HP by 7 and heal all of your HP.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flees_waffle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Letter Opener",
+    "Description": "Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fletter_opener.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lizard Tail",
+    "Description": "When you would die, heal to 50% of your Max HP instead.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flizard_tail.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Looming Fruit",
+    "Description": "Upon pickup, raise your Max HP by 31.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flooming_fruit.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lord's Parasol",
+    "Description": "When you encounter the Merchant, immediately obtain EVERYTHING he sells.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flords_parasol.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lost Coffer",
+    "Description": "Upon pickup, gain 1 card reward and procure 1 random potion.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flost_coffer.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lucky Fysh",
+    "Description": "Whenever you add a card to your Deck, gain 15 Gold.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flucky_fysh.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Lunar Pastry",
+    "Description": "At the end of your turn, gain .",
+    "Character": "Regent",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Flunar_pastry.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Mango",
+    "Description": "Upon pickup, raise your Max HP by 14.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmango.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Massive Scroll",
+    "Description": "Upon pickup, choose 1 of 3 Multiplayer Colorless Cards to add to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmassive_scroll.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Meal Ticket",
+    "Description": "Whenever you enter a shop room, heal 15 HP.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmeal_ticket.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Meat Cleaver",
+    "Description": "You may Cook at Rest Sites.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmeat_cleaver.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Meat on the Bone",
+    "Description": "If your HP is at or below 50% at the end of combat, heal 12 HP.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmeat_on_the_bone.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Membership Card",
+    "Description": "50% discount on all products!",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmembership_card.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Mercury Hourglass",
+    "Description": "At the start of your turn, deal 3 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmercury_hourglass.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Metronome",
+    "Description": "The first time you Channel 7 Orbs each combat, deal 30 damage to ALL enemies.",
+    "Character": "Defect",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmetronome.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Mini Regent",
+    "Description": "The first time you spend  each turn, gain 1 Strength.",
+    "Character": "Regent",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmini_regent.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Miniature Cannon",
+    "Description": "Upgraded Attacks deal 3 additional damage.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fminiature_cannon.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Miniature Tent",
+    "Description": "You may choose any number of options at Rest Sites.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fminiature_tent.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Molten Egg",
+    "Description": "Whenever you add an Attack card to your Deck, Upgrade it.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmolten_egg.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Mummified Hand",
+    "Description": "Whenever you play a Power, a random card in your Hand is free to play that turn.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmummified_hand.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Music Box",
+    "Description": "Create an Ethereal copy of the first Attack you play each turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmusic_box.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Mystic Lighter",
+    "Description": "Enchanted Attacks deal 9 additional damage.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fmystic_lighter.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Neow's Torment",
+    "Description": "Upon pickup, add 1 Neow's Fury to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fneows_torment.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "New Leaf",
+    "Description": "Upon pickup, Transform 1 card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fnew_leaf.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ninja Scroll",
+    "Description": "At the start of each combat, add 3 Shivs into your Hand.",
+    "Character": "Silent",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fninja_scroll.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Nunchaku",
+    "Description": "Every time you play 10 Attacks, gain .",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fnunchaku.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Nutritious Oyster",
+    "Description": "Upon pickup, raise your Max HP by 11.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fnutritious_oyster.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Nutritious Soup",
+    "Description": "Upon pickup, Enchant all Strikes in your Deck with Tezcatara's Ember.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fnutritious_soup.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Oddly Smooth Stone",
+    "Description": "Start each combat with 1 Dexterity.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Foddly_smooth_stone.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Old Coin",
+    "Description": "Upon pickup, gain 300 Gold.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fold_coin.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Orange Dough",
+    "Description": "At the start of each combat, add 2 random Colorless cards into your Hand.",
+    "Character": "Regent",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Forange_dough.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Orichalcum",
+    "Description": "If you end your turn without Block, gain 6 Block.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Forichalcum.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ornamental Fan",
+    "Description": "Every time you play 3 Attacks in a single turn, gain 4 Block.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fornamental_fan.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Orrery",
+    "Description": "Upon pickup, gain 5 card rewards.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Forrery.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Blood",
+    "Description": "At the start of your turn, draw 1 additional card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_blood.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Claw",
+    "Description": "Upon pickup, Enchant all Defends with Goopy.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_claw.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Eye",
+    "Description": "The first time each combat you end your turn without playing cards, Exhaust your Hand, and take an extra turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_eye.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Flesh",
+    "Description": "Gain an additional  at the start of your 3rd turn, and every turn after that.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_flesh.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Growth",
+    "Description": "Upon pickup, Enchant a card with Clone.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_growth.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Horn",
+    "Description": "Upon pickup, add 2 Relax to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_horn.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Legion",
+    "Description": "Doubles Block gained from a card, then goes to sleep for 2 turns.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_legion.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Tears",
+    "Description": "If you end your turn with unspent , gain an additional  next turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_tears.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Tooth",
+    "Description": "Upon pickup, remove 5 cards from your Deck. After each combat, randomly add 1 back Upgraded.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_tooth.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pael's Wing",
+    "Description": "You may sacrifice card rewards to Pael. Every 2 sacrifices, obtain a Relic.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaels_wing.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pandora's Box",
+    "Description": "Transform ALL Strikes and Defends.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpandoras_box.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pantograph",
+    "Description": "At the start of each Boss combat, heal 25 HP.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpantograph.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Paper Krane",
+    "Description": "Enemies with Weak deal 40% less damage to you rather than 25%.",
+    "Character": "Silent",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaper_krane.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Paper Phrog",
+    "Description": "Enemies with Vulnerable take 75% more damage rather than 50%.",
+    "Character": "Ironclad",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpaper_phrog.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Parrying Shield",
+    "Description": "If you end a turn with at least 10 Block, deal 6 damage to a random enemy.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fparrying_shield.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pear",
+    "Description": "Upon pickup, raise your Max HP by 10.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpear.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pen Nib",
+    "Description": "Every 10th Attack you play deals double damage.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpen_nib.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pendulum",
+    "Description": "Whenever you shuffle your Draw Pile, draw a card.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpendulum.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Permafrost",
+    "Description": "The first time you play a Power each combat, gain 6 Block.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpermafrost.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Petrified Toad",
+    "Description": "At the start of each combat, procure a Potion-Shaped Rock.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpetrified_toad.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Philosopher's Stone",
+    "Description": "Gain  at the start of each turn. ALL enemies start combat with 1 Strength.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fphilosophers_stone.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Phylactery Unbound",
+    "Description": "At the start of each combat, Summon 5. At the start of your turn, Summon 2.",
+    "Character": "Colorless",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fphylactery_unbound.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Planisphere",
+    "Description": "Whenever you enter a ? room, heal 4 HP.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fplanisphere.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pocketwatch",
+    "Description": "Whenever you play 3 or fewer cards during your turn, draw 3 additional cards at the start of your next turn.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpocketwatch.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pomander",
+    "Description": "Upon pickup, Upgrade a card.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpomander.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Potion Belt",
+    "Description": "Upon pickup, gain 2 potion slots.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpotion_belt.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Power Cell",
+    "Description": "At the start of each combat, add 2 zero-cost cards from your Draw Pile into your Hand.",
+    "Character": "Defect",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpower_cell.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Prayer Wheel",
+    "Description": "Normal enemies drop an additional card reward.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fprayer_wheel.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Precarious Shears",
+    "Description": "Upon pickup, remove 2 cards from your Deck and take 13 damage.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fprecarious_shears.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Precise Scissors",
+    "Description": "Upon pickup, remove 1 card from your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fprecise_scissors.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Preserved Fog",
+    "Description": "Upon pickup, remove 5 cards from your Deck. Add Folly to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpreserved_fog.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Prismatic Gem",
+    "Description": "Gain  at the start of each turn. Card rewards now contain cards from other colors.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fprismatic_gem.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Pumpkin Candle",
+    "Description": "Gain  at the start of each turn. Extinguishes at the start of Act 3.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpumpkin_candle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Punch Dagger",
+    "Description": "Upon pickup, Enchant an Attack with Momentum 5.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fpunch_dagger.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Radiant Pearl",
+    "Description": "At the start of each combat, add 1 Luminesce into your Hand.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fradiant_pearl.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Rainbow Ring",
+    "Description": "The first time you play an Attack, Skill, and Power each turn, gain 1 Strength and 1 Dexterity.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Frainbow_ring.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Razor Tooth",
+    "Description": "Every time you play an Attack or Skill, Upgrade it for the remainder of combat.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Frazor_tooth.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Red Mask",
+    "Description": "At the start of each combat, apply 1 Weak to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fred_mask.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Red Skull",
+    "Description": "While your HP is at or below 50%, you have 3 additional Strength.",
+    "Character": "Ironclad",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fred_skull.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Regal Pillow",
+    "Description": "Whenever you Rest, heal an additional 15 HP.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fregal_pillow.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Regalite",
+    "Description": "Whenever you create a Colorless card, gain 2 Block.",
+    "Character": "Regent",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fregalite.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Reptile Trinket",
+    "Description": "Whenever you use a potion, gain 3 Strength this turn.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Freptile_trinket.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ring of the Drake",
+    "Description": "At the start of your first 3 turns, draw 2 additional cards.",
+    "Character": "Colorless",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fring_of_the_drake.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ring of the Snake",
+    "Description": "At the start of each combat, draw 2 additional cards.",
+    "Character": "Silent",
+    "Rarity": "Starter",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fring_of_the_snake.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ringing Triangle",
+    "Description": "Retain your Hand on the first turn of combat.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fringing_triangle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ripple Basin",
+    "Description": "If you did not play any Attacks during your turn, gain 4 Block.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fripple_basin.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Royal Stamp",
+    "Description": "Upon pickup, choose an Attack or Skill in your Deck to Enchant with Royally Approved.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Froyal_stamp.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Ruined Helmet",
+    "Description": "The first time you gain Strength each combat, double the amount gained.",
+    "Character": "Ironclad",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fruined_helmet.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Runic Capacitor",
+    "Description": "Start each combat with 3 additional Orb Slots.",
+    "Character": "Defect",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Frunic_capacitor.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Runic Pyramid",
+    "Description": "At the end of your turn, you no longer discard your Hand.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Frunic_pyramid.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sai",
+    "Description": "At the start of your turn, gain 7 Block.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsai.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sand Castle",
+    "Description": "Upon pickup, Upgrade 6 random cards.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsand_castle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Screaming Flagon",
+    "Description": "If you end your turn with no cards in your Hand, deal 20 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fscreaming_flagon.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Scroll Boxes",
+    "Description": "Upon pickup, lose all Gold and choose 1 of 2 packs of cards to add to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fscroll_boxes.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sea Glass",
+    "Description": "See 15 cards from another character. Choose any number of them to add to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsea_glass.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Seal of Gold",
+    "Description": "At the start of your turn, spend 5 Gold to gain .",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fseal_of_gold.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Self-Forming Clay",
+    "Description": "Whenever you lose HP in combat, gain 3 Block next turn.",
+    "Character": "Ironclad",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fself_forming_clay.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sere Talon",
+    "Description": "Upon pickup, add 2 random Curses and 3 Wishes to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsere_talon.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Shovel",
+    "Description": "You can now dig at Rest Sites to obtain a random Relic.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fshovel.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Shuriken",
+    "Description": "Every time you play 3 Attacks in a single turn, gain 1 Strength.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fshuriken.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Signet Ring",
+    "Description": "Upon pickup, gain 999 Gold.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsignet_ring.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Silver Crucible",
+    "Description": "The first 3 card rewards you see are Upgraded. The first Treasure Chest you open is empty.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsilver_crucible.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sling of Courage",
+    "Description": "Start each Elite combat with 2 Strength.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsling_of_courage.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Small Capsule",
+    "Description": "Upon pickup, obtain a random Relic.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsmall_capsule.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Snecko Eye",
+    "Description": "At the start of your turn, draw 2 additional cards. Start each combat Confused.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsnecko_eye.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Snecko Skull",
+    "Description": "Whenever you apply Poison, apply an additional 1 Poison.",
+    "Character": "Silent",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsnecko_skull.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sozu",
+    "Description": "Gain  at the start of each turn. You can no longer obtain potions.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsozu.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sparkling Rouge",
+    "Description": "At the start of your 3rd turn, gain 1 Strength and 1 Dexterity.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsparkling_rouge.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Spiked Gauntlets",
+    "Description": "Gain  at the start of each turn. Powers cost 1 more .",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fspiked_gauntlets.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Stone Calendar",
+    "Description": "At the end of turn 7, deal 52 damage to ALL enemies.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fstone_calendar.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Stone Cracker",
+    "Description": "At the start of Boss combats, Upgrade 3 random cards in your Draw Pile for the rest of combat.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fstone_cracker.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Stone Humidifier",
+    "Description": "Whenever you Rest at a Rest Site, raise your Max HP by 5.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fstone_humidifier.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Storybook",
+    "Description": "Upon pickup, add 1 Brightest Flame to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fstorybook.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Strawberry",
+    "Description": "Upon pickup, raise your Max HP by 7.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fstrawberry.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Strike Dummy",
+    "Description": "Cards containing “Strike” deal 3 additional damage.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fstrike_dummy.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Sturdy Clamp",
+    "Description": "Up to 10 Block persists across turns.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsturdy_clamp.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Symbiotic Virus",
+    "Description": "At the start of each combat, Channel 1 Dark.",
+    "Character": "Defect",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fsymbiotic_virus.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tanx's Whistle",
+    "Description": "Upon pickup, add 1 Whistle to your Deck.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftanxs_whistle.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "The Abacus",
+    "Description": "Whenever you shuffle your Draw Pile, gain 6 Block.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fthe_abacus.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "The Courier",
+    "Description": "The merchant no longer runs out of cards, relics, or potions and his prices are reduced by 20%.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fthe_courier.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Throwing Axe",
+    "Description": "The first card you play each combat is played an extra time.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fthrowing_axe.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tingsha",
+    "Description": "Whenever you discard a card during your turn, deal 3 damage to a random enemy for each card discarded.",
+    "Character": "Silent",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftingsha.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tiny Mailbox",
+    "Description": "Whenever you Rest, procure a random potion.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftiny_mailbox.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Toasty Mittens",
+    "Description": "At the start of your turn, Exhaust the top card of your Draw Pile and gain 1 Strength.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftoasty_mittens.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Toolbox",
+    "Description": "At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your Hand.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftoolbox.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Touch of Orobas",
+    "Description": "Upon pickup, replace your starter Relic with an Ancient version.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftouch_of_orobas.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tough Bandages",
+    "Description": "Whenever you discard a card during your turn, gain 3 Block.",
+    "Character": "Silent",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftough_bandages.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Toxic Egg",
+    "Description": "Whenever you add a Skill into your Deck, Upgrade it.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftoxic_egg.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Toy Box",
+    "Description": "Upon pickup, obtain 4 Wax Relics. Every 3 combats, your left-most Wax Relic will melt away.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftoy_box.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tri-Boomerang",
+    "Description": "Choose 3 Attacks in your Deck. Enchant them with Instinct.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftri_boomerang.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tungsten Rod",
+    "Description": "Whenever you would lose HP, lose 1 less.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftungsten_rod.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Tuning Fork",
+    "Description": "Every time you play 10 Skills, gain 7 Block.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftuning_fork.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Twisted Funnel",
+    "Description": "At the start of each combat, apply 4 Poison to ALL enemies.",
+    "Character": "Silent",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Ftwisted_funnel.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Unceasing Top",
+    "Description": "Whenever you have no cards in Hand during your turn, draw a card.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Funceasing_top.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Undying Sigil",
+    "Description": "Enemies with at least as much Doom as HP deal 50% less damage.",
+    "Character": "Necrobinder",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fundying_sigil.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Unsettling Lamp",
+    "Description": "Each combat, the first time you play a card that Debuffs an enemy, double its effect.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Funsettling_lamp.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Vajra",
+    "Description": "Start each combat with 1 Strength.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvajra.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Vambrace",
+    "Description": "The first time you gain Block from a card each combat, double the amount gained.",
+    "Character": "Colorless",
+    "Rarity": "Uncommon",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvambrace.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Velvet Choker",
+    "Description": "Gain  at the start of each turn. You cannot play more than 6 cards per turn.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvelvet_choker.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Venerable Tea Set",
+    "Description": "Whenever you enter a Rest Site, start the next combat with an additional .",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvenerable_tea_set.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Very Hot Cocoa",
+    "Description": "Start each combat with an additional 4.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvery_hot_cocoa.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Vexing Puzzlebox",
+    "Description": "At the start of each combat, add a random card into your Hand. It costs 0.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvexing_puzzlebox.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Vitruvian Minion",
+    "Description": "Cards containing “Minion” deal double damage and gain double Block.",
+    "Character": "Regent",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fvitruvian_minion.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "War Hammer",
+    "Description": "Whenever you kill an Elite, Upgrade 4 random cards.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwar_hammer.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "War Paint",
+    "Description": "Upon pickup, Upgrade 2 random Skills.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwar_paint.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Whetstone",
+    "Description": "Upon pickup, Upgrade 2 random Attacks.",
+    "Character": "Colorless",
+    "Rarity": "Common",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwhetstone.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Whispering Earring",
+    "Description": "Gain  at the start of each turn. Vakuu plays your first turn for you.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwhispering_earring.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "White Beast Statue",
+    "Description": "Potions always appear in combat rewards.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwhite_beast_statue.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "White Star",
+    "Description": "Elites drop an additional Rare card reward.",
+    "Character": "Colorless",
+    "Rarity": "Rare",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwhite_star.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Wing Charm",
+    "Description": "A random card in each card reward is Enchanted with Swift 1.",
+    "Character": "Colorless",
+    "Rarity": "Shop",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fwing_charm.png\u0026w=3840\u0026q=80"
+  },
+  {
+    "Name": "Yummy Cookie",
+    "Description": "Upon pickup, Upgrade 4 cards.",
+    "Character": "Colorless",
+    "Rarity": "Ancient",
+    "Img": "/_next/image?url=https%3A%2F%2Fsts2json.untapped.gg%2Fart%2Frelics%2Fyummy_cookie.png\u0026w=3840\u0026q=80"
+  }
+]

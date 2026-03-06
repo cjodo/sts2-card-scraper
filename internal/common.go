@@ -56,3 +56,19 @@ type Card struct {
 	Img						string
 	URL						string
 }
+
+type Relic struct {
+	Name 					string
+	Description		string
+	Character			string
+	Rarity				string
+	Img						string
+}
+
+type Potion struct {
+	Name 					string
+	Description		string
+	Character			string
+	Rarity				string
+	Img						string
+}

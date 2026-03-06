@@ -1,164 +1,40 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"log"
-	"os"
-	"path/filepath"
-	"strings"
-	"sts2/internal"
-	"time"
+	"sts2/internal/scraper"
+	"sts2/internal/writer"
 
-	"github.com/PuerkitoBio/goquery"
 	"github.com/gocolly/colly/v2"
 )
 
-type Database interface {
-    SaveCard(card internal.Card) error
+func newCollector(cache string) *colly.Collector {
+	c := colly.NewCollector(
+		colly.CacheDir(cache),
+		)
+
+	return c
 }
-
-type options struct {
-    db Database
-}
-
-type Option interface {
-    apply(*options)
-}
-
-type dbOption struct {
-    DB Database
-}
-
-func (d dbOption) apply(opts *options) {
-    opts.db = d.DB
-}
-
-func WithDatabase(d Database) Option {
-    return dbOption{DB: d}
-}
-
-const (
-	untappedBaseURL = "https://sts2.untapped.gg"
-	untappedCardsURL = "https://sts2.untapped.gg/en/cards"
-	cardLinkSelector = `a.ugg-link-link[href^="/en/cards/"]`
-)
-
-var cards []internal.Card
 
 func main() {
-	c := colly.NewCollector(
-		// Prevents redownloading pages even after restart
-		colly.CacheDir("./card_cache"),
-		colly.CacheExpiration(time.Hour*24),
-		)
-	if err := crawl(c); err != nil {
-		log.Fatal(err)
-	}
+	cardCrawler := newCollector("./cache/cards")
+	relicCrawler := newCollector("./cache/relics")
 
-	c.Wait()
-
-	writeFile := "./cards.json"
-
-	if len(os.Args) > 1 && os.Args[1] != "" {
-		writeFile = os.Args[1]
-	}
-
-	if err := writeJSON(writeFile, cards); err != nil {
-		log.Fatal(err)
-	}
-
-	fmt.Println("Wrote", len(cards), "cards to ", writeFile)
-}
-
-func crawl(c *colly.Collector, opts ...Option) error {
-	// New collector to get card detail
-	detailCollector := c.Clone()
-
-	c.OnHTML(cardLinkSelector, func(h *colly.HTMLElement) {
-		fmt.Println("Found card link: ", h.Attr("href"))
-		cardUrl := untappedBaseURL+h.Attr("href")
-		detailCollector.Visit(cardUrl)
-	})
-
-	detailCollector.OnHTML(".page-module-scss-module__kK2N2a__container", func(h *colly.HTMLElement) {
-		// details container
-		card, err := collectCardDetails(h)
-		if err != nil {
-			fmt.Println("Error collecting card data: ", err)
-			return
-		}
-
-		cards = append(cards, card)
-	})
-
-	c.OnRequest(func(r *colly.Request) {
-		fmt.Println("Visiting:", r.URL)
-	})
-
-	return c.Visit(untappedBaseURL)
-}
-func collectCardDetails(h *colly.HTMLElement) (internal.Card, error) {
-	var card internal.Card
-
-	card.URL = h.Request.URL.String()
-
-	card.Title = strings.TrimSpace(h.ChildText("h1"))
-	if card.Title == "" {
-		return internal.Card{}, fmt.Errorf("title not found")
-	}
-
-	h.ForEach("label", func(_ int, el *colly.HTMLElement) {
-		labelText := strings.TrimSpace(el.Text)
-
-		switch labelText {
-
-		case "DESCRIPTION":
-			desc := strings.TrimSpace(el.DOM.Next().Text())
-			card.Description = desc
-
-		case "CARD DETAILS":
-			el.DOM.Next().Find("div").Each(func(_ int, detail *goquery.Selection) {
-				key := strings.TrimSpace(detail.Find("label").Text())
-				value := strings.TrimSpace(detail.Find("span").Text())
-
-				switch key {
-				case "Character":
-					card.Character = value
-				case "Type":
-					card.Type = value
-				case "Cost":
-					card.EnergyCost = value
-				case "Rarity":
-					card.Rarity = value
-				}
-			})
-
-		case "SOURCE":
-			card.Source = strings.TrimSpace(el.DOM.Next().Text())
-		}
-	})
-
-	card.Img = h.ChildAttr(`img[class*="cardImage"]`, "src")
-
-	return card, nil
-}
-
-func writeJSON(path string, data any) error {
-	dir := filepath.Dir(path)
-	if err := os.MkdirAll(dir, 0755); err != nil {
-		return err
-	}
-
-	// Create (or overwrite) file
-	file, err := os.Create(path)
+	fmt.Println("\nscraping cards\n")
+	cards, err := scraper.CrawlCards(cardCrawler)
 	if err != nil {
-		return err
+		log.Fatal(err)
 	}
-	defer file.Close()
+	fmt.Println("\nscraping relics\n")
+	relics, err := scraper.CrawlRelics(relicCrawler)
+	if err != nil {
+		log.Fatal(err)
+	}
 
-	encoder := json.NewEncoder(file)
-	encoder.SetIndent("", "  ")
+	writer.Write("./cards.json", cards)
+	writer.Write("./relics.json", relics)
 
-	return encoder.Encode(data)
+	fmt.Println("Cards:", len(cards))
+	fmt.Println("Relics:", len(relics))
 }

@@ -1,0 +1,26 @@
+package writer
+
+import (
+	"encoding/json"
+	"os"
+	"path/filepath"
+)
+
+func Write(path string, data any) error {
+	dir := filepath.Dir(path)
+
+	if err := os.MkdirAll(dir, 0755); err != nil {
+		return err
+	}
+
+	file, err := os.Create(path)
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+
+	enc := json.NewEncoder(file)
+	enc.SetIndent("", "  ")
+
+	return enc.Encode(data)
+}
