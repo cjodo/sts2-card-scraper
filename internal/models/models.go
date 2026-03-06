@@ -18,3 +18,11 @@ type Relic struct {
 	Rarity      string
 	Img         string
 }
+
+type Potion struct {
+	Name        string
+	Description string
+	Character   string
+	Rarity      string
+	Img         string
+}

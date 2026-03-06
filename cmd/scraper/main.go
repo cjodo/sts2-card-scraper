@@ -20,6 +20,7 @@ func newCollector(cache string) *colly.Collector {
 func main() {
 	cardCrawler := newCollector("./cache/cards")
 	relicCrawler := newCollector("./cache/relics")
+	potionScraper := newCollector("./cache/potions")
 
 	fmt.Println("\nscraping cards\n")
 	cards, err := scraper.CrawlCards(cardCrawler)
@@ -31,10 +32,17 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	fmt.Println("\nscraping potions\n")
+	potions, err := scraper.CrawlPotions(potionScraper)
+	if err != nil {
+		log.Fatal(err)
+	}
 
 	writer.Write("./cards.json", cards)
 	writer.Write("./relics.json", relics)
+	writer.Write("./potions.json", potions)
 
 	fmt.Println("Cards:", len(cards))
 	fmt.Println("Relics:", len(relics))
+	fmt.Println("Potions:", len(potions))
 }
